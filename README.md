@@ -1,7 +1,8 @@
-# exploredata
+# exploredata_sql
 ExploreAI academy data analysis projects
 This repository analyses water survey data using Excel and SQL
 
-The repository consists of two files. 
-!. Repo 1 - Consists of instructions, raw and uncleaned datasets
-2. Repo 2 - Consists of cleaned datasets and SQL data analysis scripts
+The repository consists of three main aspects
+1. The raw and uncleaned dataset
+2. SQL scripts analysing the data
+3. Clean and secondary datasets that have been cleaned
